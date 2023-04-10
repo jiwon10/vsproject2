@@ -1,2 +1,4 @@
 this is a new file
 push?
+
+how to see a graph?
